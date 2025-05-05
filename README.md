@@ -28,25 +28,22 @@ Der Bagger eignet sich ideal für **innerstädtische Baustellen, Kanalbau und en
 | Plattform            | Farming Simulator 25        |
 | Version              | 1.1.0                       |
 
-## 🛠 Geplant
-- Hundegang
-- Allradlenkung
-- Heckblitzer
-
 ## 🧱 Credits
 
 - Modell, Texturen, XML & Scripts: **fmods**
-
+- Danke an Came für testen meiner Mods
+  
 ## 📜 Lizenz
 
-Dieser Mod darf **nicht ohne Zustimmung weiterverbreitet oder verändert** hochgeladen werden. 
+Dieser Mod darf **nicht ohne Zustimmung weiterverbreitet oder verändert** hochgeladen werden.
 
 ## 📎 Hinweise
 
 - Mod befindet sich aktuell in der finalen Testphase
-- Für Feedback, Bugs oder Ideen bitte Kontakt über GitHub Issues
+- Für Feedback, Bugs oder Ideen bitte Kontakt über Discord: `fmods` oder über GitHub Issues
 
----
+📥 [Mod herunterladen](https://mega.nz/file/K1ZTiDTA#ryJ5lLPlqZzF0lh5i-ccGlTNt-OhW3476u5m8U0bNQA)
 
-**Viel Spaß mit dem EWR130E auf eurer Baustelle!**  
+**Viel Spaß!**  
 *– fmods*
+
