@@ -41,7 +41,7 @@ Dieser Mod darf **nicht ohne Zustimmung weiterverbreitet oder verändert** hochg
 - Mod befindet sich aktuell in der finalen Testphase
 - Für Feedback, Bugs oder Ideen bitte Kontakt über Discord: `fmods` oder über GitHub Issues
 
-📥 [Mod herunterladen](https://mega.nz/file/K1ZTiDTA#ryJ5lLPlqZzF0lh5i-ccGlTNt-OhW3476u5m8U0bNQA)
+📥 [Mod herunterladen](https://mega.nz/file/moImmDrb#a8y05Jnvqkwndt07F_YALRPKVEoJcVsl_DMeI0XmwTU)
 
 **Viel Spaß!**  
 *– fmods*
