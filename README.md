@@ -9,7 +9,6 @@ Der Bagger eignet sich ideal für **innerstädtische Baustellen, Kanalbau und en
 ## 🔧 Features
 
 - Multiplayer- und Dedicated-Server-kompatibel
-- Passendes Rototilt und Löffel
 - Abgestimmte Steuerung
   
 ## 🔧 Konfigurierbar
